@@ -17,7 +17,7 @@ Our primary audience is developers, data scientists, and security experts tasked
 
 ## Key Focus 📖
 
-The primary aim of this project is to provide a comprehensible and adoptable guide to navigate the potential security risks in LLM applications. Our Top 10 list serves as a starting point for developers and security professionals who are new to this domain, and as a reference for those who are more experienced.
+The primary aim of this project is to provide a comprehensible and adaptable guide to navigate the potential security risks in LLM applications. Our Top 10 list serves as a starting point for developers and security professionals who are new to this domain and as a reference for those who are more experienced.
 
 ## Mission Statement 🚀
 
@@ -27,7 +27,7 @@ Our goal is to bridge the divide between general application security principles
 
 ## Contribution 👋
 
-The first version of this list was contributed by Steve Wilson of Contrast Security.  We encourage the community to contribute and help improve the project. If you have any suggestions, feedback or want to help improve the list, feel free to open an issue or send a pull request.
+The first version of this list was contributed by Steve Wilson of Contrast Security.  We encourage the community to contribute and help improve the project. If you have any suggestions, or feedback or want to help improve the list, feel free to open an issue or send a pull request.
 
 We have a working group channel on the [OWASP Slack](https://owasp.org/slack/invite), so please sign up and then join us on the #project-top10-llm channel.
 
